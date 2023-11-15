@@ -13,7 +13,7 @@ FLO aims to establish a roadmap for sales and marketing activities. To enable th
 ## Dataset
 The dataset comprises information derived from the past shopping behaviors of customers who made their most recent purchases from FLO in the years 2020-2021 through OmniChannel, engaging in both online and offline shopping.
 
-| Column Names  | Second Header |
+| Column Names  | Description |
 | ------------- | ------------- |
 | master_id  | Unique customer number  |
 | order_channel  | Which channel of the shopping platform is used (Android, iOS, Desktop, Mobile)  |
